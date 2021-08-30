@@ -1,8 +1,8 @@
 <p align="center">
   https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg
 
- <img width="100px" src="https://giphy.com/embed/3o7TKGAJ7CLp95cNI4" align="center" alt="Github Readme Stats" />
-<iframe src="https://giphy.com/embed/3o7TKGAJ7CLp95cNI4" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/morph-morphing-veggies-3o7TKGAJ7CLp95cNI4">via GIPHY</a></p>
+ <img width="100px" src="https://ibb.co/fX5Sqxw" align="center" alt="Github Readme Stats" />
+
 </p>
 
 ### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
