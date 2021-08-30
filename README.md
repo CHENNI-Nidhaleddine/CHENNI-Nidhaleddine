@@ -1,6 +1,6 @@
 <p align="center">
   https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg
-
+ <a href="https://ibb.co/fX5Sqxw"><img src="https://i.ibb.co/Jc4dmsJ/giphy.gif" alt="giphy" border="0"></a>
  <img width="100px" src="https://ibb.co/fX5Sqxw" align="center" alt="Github Readme Stats" />
 
 </p>
