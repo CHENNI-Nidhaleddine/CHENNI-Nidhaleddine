@@ -1,7 +1,8 @@
 <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
-  <iframe src="https://giphy.com/embed/LY8yDak6Tngb6FfPrt" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-hello-hi-LY8yDak6Tngb6FfPrt">via GIPHY</a></p>
- <h2 align="center">Profile</h2>
+  https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg
+
+ <img width="100px" src="https://giphy.com/embed/3o7TKGAJ7CLp95cNI4" align="center" alt="Github Readme Stats" />
+<iframe src="https://giphy.com/embed/3o7TKGAJ7CLp95cNI4" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/morph-morphing-veggies-3o7TKGAJ7CLp95cNI4">via GIPHY</a></p>
 </p>
 
 ### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
