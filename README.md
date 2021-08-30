@@ -1,9 +1,9 @@
 <p align="center">
- <a href="https://ibb.co/fX5Sqxw"><img width="100px"   align="center" alt="Github Readme Stats"src="https://i.ibb.co/Jc4dmsJ/giphy.gif" alt="giphy" border="0"></a>
+ <a href="https://ibb.co/fX5Sqxw"><img width="150px"   align="center" alt="Github Readme Stats"src="https://i.ibb.co/Jc4dmsJ/giphy.gif" alt="giphy" border="0"></a>
 </p>
 
-### Hi there 👋 I'm [Anand K. Mainali](https://anandmainali.com.np)
-> Software Engineer at [SoftNEP](https://softnep.com)
+### Hi there 👋 I'm [Chenni Nidhal Eddine](https://chenni-nidhal-eddine.firebaseapp.com/)
+> Second Year Computer Science Student At [ESI EX INI](https://www.esi.dz/)
 
 
 <img src="https://komarev.com/ghpvc/?username=anandmainali" alt="anandmainali" />
