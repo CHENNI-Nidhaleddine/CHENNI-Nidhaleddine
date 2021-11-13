@@ -3,7 +3,7 @@
 </p>
 
 ### Hi there 👋 I'm [Chenni Nidhal Eddine](https://chenni-nidhal-eddine.firebaseapp.com/)
-> Second Year Computer Science Student At [ESI EX INI](https://www.esi.dz/)
+> Third Year Computer Science Student At [ESI EX INI](https://www.esi.dz/)
 
 
 <img src="https://komarev.com/ghpvc/?username=CHENNI-Nidhaleddine" alt="Chenni nidhal eddine" />
