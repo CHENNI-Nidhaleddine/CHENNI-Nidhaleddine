@@ -1,5 +1,5 @@
 <p align="center">
- <a href="https://ibb.co/fX5Sqxw"><img width="150px"   align="center" alt="Github Readme Stats" src="https://i.ibb.co/Jc4dmsJ/giphy.gif" alt="giphy" border="0"></a>
+ <a href="https://ibb.co/fX5Sqxw"><img width="150px" height="200px"  align="center" alt="Github Readme Stats" src="https://i.ibb.co/Jc4dmsJ/giphy.gif" alt="giphy" border="0"></a>
 </p>
 
 ### Hi there 👋 I'm [Chenni Nidhal Eddine](https://nidhal-eddine-chenni.vercel.app/)
