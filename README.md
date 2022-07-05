@@ -1,4 +1,4 @@
-<img align='right' src="https://i.ibb.co/YRGrdBy/test.gif" alt="test" border="0"  width="200px" height="250px">
+<img align="right" src="https://i.ibb.co/BCSqNnk/hello.gif" alt="hello" border="0" width="200px" height="250px">
 
 ### Hi there 👋 I'm [Chenni Nidhal Eddine](https://nidhal-eddine-chenni.vercel.app/)
 > Forth Year Computer Science Student At [ESI EX INI](https://www.esi.dz/) 
