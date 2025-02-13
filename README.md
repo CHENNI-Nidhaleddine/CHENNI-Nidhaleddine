@@ -1,7 +1,10 @@
 <img align="right" src="https://i.ibb.co/BCSqNnk/hello.gif" alt="hello" border="0" width="200px" height="250px">
 
 ### Hi there 👋 I'm [Chenni Nidhal Eddine](https://nidhal-eddine-chenni.vercel.app/)
-> Researcher at UNI.LU 
+> AI Researcher | Engineer
+ 
+> Driven by curiosity, building intelligent systems, and crafting seamless experiences.  
+
 
 ## Github Stats
 
