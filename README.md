@@ -1,18 +1,8 @@
 <img align="right" src="https://i.ibb.co/BCSqNnk/hello.gif" alt="hello" border="0" width="200px" height="250px">
 
 ### Hi there 👋 I'm [Chenni Nidhal Eddine](https://nidhal-eddine-chenni.vercel.app/)
-> Final Year Computer Science Student At [ESI EX INI](https://www.esi.dz/) 
+> Researcher at UNI.LU 
 
- I have always sought out opportunities and challenges that are meaningful to me.<br>I've never stopped engaging my passion of learning and solving problems.
-
-## Current level
-
-- <h4> I build <a href="https://nidhal-eddine-chenni.vercel.app/">websites</a> and ML models.</h4>
-- <h4> I have 4 years of tech experience.</h4>
-
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
- 
 ## Github Stats
 
 <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CHENNI-Nidhaleddine&layout=compact">
