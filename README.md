@@ -8,7 +8,7 @@
 
 ## Github Stats
 
-<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CHENNI-Nidhaleddine&layout=compact">
+<!-- <img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=CHENNI-Nidhaleddine&layout=compact"> -->
 
 [![Chenni Nidhal Eddine GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHENNI-Nidhaleddine&show_icons=true&count_private=true)](https://github.com/CHENNI-Nidhaleddine)
 
