@@ -1,4 +1,3 @@
-<img align="right" src="https://i.ibb.co/BCSqNnk/hello.gif" alt="hello" border="0" width="170px" height="200px">
 
 ### Hi there 👋 I'm [Chenni Nidhal Eddine](https://nidhal-eddine-chenni.vercel.app/)
 > AI Researcher | Engineer
@@ -11,7 +10,6 @@
 
 [![Chenni Nidhal Eddine GitHub Stats](https://github-readme-stats.vercel.app/api?username=CHENNI-Nidhaleddine&show_icons=true&count_private=true)](https://github.com/CHENNI-Nidhaleddine)
 
-<img align='right' src="https://i.ibb.co/2kjd0zP/by.gif" alt="by" border="0" width="170px" height="200px"/>
 
 ## 🤝🏻 Connect with Me
 
